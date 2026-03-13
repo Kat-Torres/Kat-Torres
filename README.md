@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
