@@ -1,27 +1,27 @@
 # 👋 Hola, soy Katherine Torres
 
-💻 Ingeniera de Sistemas | 🚀 DevOps Engineer  
+💻 Ingeniera de Sistemas | 🚀 Devops/DevSecOps 
 Apasionada por la automatización, CI/CD y la mejora continua en entornos cloud.
 
 ---
 
 ## 🧠 Sobre mí
-- 🔭 Actualmente trabajo como **DevOps Engineer**
+- 🔭 Actualmente trabajo como **Especialista DevSecOps**
 - ⚙️ Experiencia en automatización de procesos CI/CD
 - ☁️ Trabajo con tecnologías cloud y contenedores
-- 🔐 Interesada en evolucionar hacia **DevSecOps**
+- 🧩 Interesada en la implementación de culturas DevSecOps a nivel organizacional
 - 📈 Objetivo: crecer hacia roles de liderazgo técnico
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- ⚙️ CI/CD: Jenkins, GitHub Actions
-- 📦 Contenedores: Docker, Kubernetes
-- ☁️ Cloud: AWS / Azure / GCP
-- 🔍 Seguridad: Fortify, Snyk, Tenable
+- ⚙️ CI/CD: Jenkins, GitHub Actions, Azure DevOps
+- 📦 Contenedores y Orquestación: Docker, OpenShift
+- ☁️ Cloud: Azure
+- 🔍 Seguridad: Fortify, Snyk, Tenable, BurpSuite, Prisma Cloud
 - 🔧 DevOps Tools: Jira, Confluence, Bitbucket, JFrog
 - 💻 Backend: .NET Core
-- 🏗️ IaC: Terraform (o la que uses)
+- 🏗️ IaC: Terraform
 
 ---
 
