@@ -28,8 +28,10 @@ Apasionada por la automatización, CI/CD y la mejora continua en entornos cloud.
 ## 🚀 Proyectos destacados
 - 🔹 Implementación de pipelines CI/CD automatizados
 - 🔹 Despliegue de aplicaciones con Docker y Kubernetes
-- 🔹 Integración de herramientas de seguridad en pipelines (DevSecOps)
-- 🔹 Hardening y remediación de vulnerabilidades
+- 🔹 Implementación de seguridad en pipelines CI/CD (SAST, DAST, SCA)
+- 🔹 Hardening basado en estándares (CIS Benchmarks)
+- 🔹 Remediación continua de vulnerabilidades (Tenable, Snyk)
+- 🔹 Automatización de controles de seguridad en el ciclo de vida del software
 
 ---
 
