@@ -1,6 +1,7 @@
 # 👋 Hola, soy Katherine Torres
 
-💻 Ingeniera de Sistemas | 🚀 Devops/DevSecOps 
+💻 Ingeniera de Sistemas | 🚀 Devops/DevSecOps
+
 Apasionada por la automatización, CI/CD y la mejora continua en entornos cloud.
 
 ---
